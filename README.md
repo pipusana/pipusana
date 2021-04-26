@@ -31,8 +31,8 @@
 
 <p align="center">
 <a href="https://github.com/pipusana/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pipusana"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pipusana"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pipusana"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pipusana"/>
 </a>
 </p>
 
