@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Information technology at the Kasetsart university Sriracha campus.\
+🎓 &nbsp;I'm graduated from Information technology at the Kasetsart university Sriracha campus.\
 🌱 &nbsp;I'm on track for learning more about Full stack developer, Data engineer, Systems Design, and Management skill.\
 ✍️ &nbsp;In my free time, I am play game 🎮, read book 📚 and drink beer 🍺.\
 ✉️ &nbsp;You can shoot me an email at pipusana.p@gmail.com I'll try to respond as soon as I can.
