@@ -29,8 +29,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-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
-
 <p align="center">
 <a href="https://github.com/pipusana/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pipusana"/>
