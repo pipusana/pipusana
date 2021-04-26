@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="code.gif"/>
+<img alt="GIF" src="code.gif"/>
 <img alt="Night Coding" src="HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Pipusana</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
