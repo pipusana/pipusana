@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="code.gif"/>
+<img align="center" alt="GIF" src="code.gif"/>
 <img alt="Night Coding" src="HandWave.gif" width='40' align="left"/><h2>Hey there! I'm Pipusana</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently studying Information technology at the Kasetsart university Sriracha campus.\
 🌱 &nbsp;I'm on track for learning more about Full stack developer, Data engineer, Systems Design, and Management skill.\
 ✍️ &nbsp;In my free time, I am play game, read book and drink beer.\
-✉️ &nbsp;You can shoot me an email at pipusana.p@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at pipusana.p@gmail.com I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
