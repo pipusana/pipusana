@@ -29,7 +29,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Amazonaws](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![Amazonaws](https://img.shields.io/badge/-Amazonaws-05122A?style=flat&logo=amazonaws)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=googlecloud)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
